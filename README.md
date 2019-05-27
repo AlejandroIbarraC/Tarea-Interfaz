@@ -19,7 +19,9 @@ Menu                            |Cool Animation                      |
 ## Prerequisites
 
 Default Python. Originally made in version 3.6.4 with macOS High Sierra 10.13.4 but tested in May 2019 for version 3.7.3 with macOS Mojave 10.14.6 and everything worked fine.
-Uses subprocess library for audio reproduction, which comes bundled with macOS. It's possible it won't run as well on another OS.
+Uses subprocess library for audio reproduction, which comes bundled with macOS. 
+
+It's possible it won't run as well on another OS.
 
 ## Authors
 
